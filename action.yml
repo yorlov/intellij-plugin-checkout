@@ -1,3 +1,5 @@
+name: 'IntelliJ Plugin Checkout'
+description: 'Simplify gradle-based plugin checkout'
 runs:
   using: "composite"
   steps:
